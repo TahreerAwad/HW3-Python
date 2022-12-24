@@ -1,0 +1,673 @@
+Location,Year,Crime,Total cases
+Zaragoza,2019,Kidnapping,0
+Rioja,2019,Intentional homicides and consummated murders,0
+Rioja,2019,Kidnapping,0
+Salamanca,2019,Intentional homicides and consummated murders,0
+Segovia,2019,Kidnapping,0
+Melilla,2019,Kidnapping,0
+Salamanca,2019,Kidnapping,1
+Segovia,2019,Intentional homicides and consummated murders,1
+Ceuta,2019,Sexual assault with penetration,1
+Melilla,2019,Intentional homicides and consummated murders,1
+Barcelona,2019,Kidnapping,2
+Valencia,2019,Kidnapping,2
+Spain,2019,Kidnapping,2
+Alicante,2019,Kidnapping,2
+Cordoba,2019,Kidnapping,2
+Granada,2019,Kidnapping,2
+Salamanca,2019,Intentional homicides and attempted murders,2
+Segovia,2019,Intentional homicides and attempted murders,2
+Ceuta,2019,Kidnapping,2
+Murcia,2019,Kidnapping,3
+Segovia,2019,Sexual assault with penetration,3
+Zaragoza,2019,Intentional homicides and consummated murders,4
+Ceuta,2019,Intentional homicides and consummated murders,4
+Rioja,2019,Intentional homicides and attempted murders,5
+Melilla,2019,Sexual assault with penetration,5
+Spain,2019,Intentional homicides and consummated murders,6
+Salamanca,2019,Sexual assault with penetration,6
+Zaragoza,2019,Intentional homicides and attempted murders,7
+Cordoba,2019,Intentional homicides and consummated murders,7
+Seville,2019,Kidnapping,8
+Melilla,2019,Intentional homicides and attempted murders,8
+Seville,2019,Intentional homicides and consummated murders,9
+Rioja,2019,Sexual assault with penetration,9
+Malaga,2019,Kidnapping,11
+Cordoba,2019,Intentional homicides and attempted murders,11
+Granada,2019,Intentional homicides and consummated murders,12
+Murcia,2019,Intentional homicides and consummated murders,13
+Alicante,2019,Intentional homicides and consummated murders,14
+Madrid,2019,Kidnapping,16
+Spain,2019,Intentional homicides and attempted murders,16
+Ceuta,2019,Intentional homicides and attempted murders,16
+Zaragoza,2019,Sexual assault with penetration,20
+Granada,2019,Intentional homicides and attempted murders,20
+Segovia,2019,Vehicle theft,20
+Cordoba,2019,Sexual assault with penetration,21
+Ceuta,2019,Other crimes against freedom and sexual indemnity,22
+Valencia,2019,Intentional homicides and consummated murders,23
+Ceuta,2019,Crimes against freedom and sexual indemnity,23
+Malaga,2019,Intentional homicides and attempted murders,24
+Segovia,2019,Robbery with violence and intimidation,24
+Murcia,2019,Intentional homicides and attempted murders,25
+Malaga,2019,Intentional homicides and consummated murders,25
+Melilla,2019,Other crimes against freedom and sexual indemnity,28
+Madrid,2019,Intentional homicides and consummated murders,32
+Granada,2019,Sexual assault with penetration,32
+Melilla,2019,Crimes against freedom and sexual indemnity,33
+Spain,2019,Sexual assault with penetration,35
+Alicante,2019,Intentional homicides and attempted murders,35
+Segovia,2019,Serious and less serious crimes of injuries and riotous brawl,37
+Seville,2019,Intentional homicides and attempted murders,40
+Malaga,2019,Sexual assault with penetration,42
+Ceuta,2019,Robberies with force in homes,42
+Segovia,2019,Drug trafficking,43
+Ceuta,2019,Serious and less serious crimes of injuries and riotous brawl,44
+Barcelona,2019,Intentional homicides and consummated murders,45
+Salamanca,2019,Vehicle theft,46
+Segovia,2019,Other crimes against freedom and sexual indemnity,46
+Murcia,2019,Sexual assault with penetration,49
+Segovia,2019,Crimes against freedom and sexual indemnity,49
+Seville,2019,Sexual assault with penetration,54
+Salamanca,2019,Other crimes against freedom and sexual indemnity,59
+Salamanca,2019,Drug trafficking,62
+Melilla,2019,Drug trafficking,63
+Salamanca,2019,Crimes against freedom and sexual indemnity,65
+Valencia,2019,Intentional homicides and attempted murders,66
+Rioja,2019,Vehicle theft,68
+Melilla,2019,Robberies with force in homes,71
+Melilla,2019,Vehicle theft,76
+Madrid,2019,Intentional homicides and attempted murders,78
+Valencia,2019,Sexual assault with penetration,82
+Rioja,2019,Other crimes against freedom and sexual indemnity,83
+Alicante,2019,Sexual assault with penetration,85
+Salamanca,2019,Serious and less serious crimes of injuries and riotous brawl,86
+Ceuta,2019,Burglaries with force in homes,88
+Rioja,2019,Robbery with violence and intimidation,90
+Rioja,2019,Crimes against freedom and sexual indemnity,92
+Salamanca,2019,Robbery with violence and intimidation,99
+Rioja,2019,Drug trafficking,104
+Melilla,2019,Burglaries with force in homes,131
+Barcelona,2019,Intentional homicides and attempted murders,142
+Rioja,2019,Serious and less serious crimes of injuries and riotous brawl,144
+Ceuta,2019,Robbery with violence and intimidation,145
+Melilla,2019,Serious and less serious crimes of injuries and riotous brawl,146
+Ceuta,2019,Vehicle theft,168
+Cordoba,2019,Other crimes against freedom and sexual indemnity,184
+Segovia,2019,Robberies with force in homes,195
+Cordoba,2019,Serious and less serious crimes of injuries and riotous brawl,203
+Cordoba,2019,Crimes against freedom and sexual indemnity,205
+Granada,2019,Other crimes against freedom and sexual indemnity,208
+Zaragoza,2019,Vehicle theft,220
+Zaragoza,2019,Other crimes against freedom and sexual indemnity,222
+Granada,2019,Crimes against freedom and sexual indemnity,240
+Zaragoza,2019,Crimes against freedom and sexual indemnity,242
+Madrid,2019,Sexual assault with penetration,243
+Spain,2019,Other crimes against freedom and sexual indemnity,254
+Zaragoza,2019,Drug trafficking,262
+Cordoba,2019,Vehicle theft,288
+Spain,2019,Crimes against freedom and sexual indemnity,289
+Cordoba,2019,Drug trafficking,291
+Ceuta,2019,Drug trafficking,297
+Spain,2019,Drug trafficking,307
+Granada,2019,Serious and less serious crimes of injuries and riotous brawl,330
+Murcia,2019,Drug trafficking,356
+Salamanca,2019,Robberies with force in homes,361
+Melilla,2019,Robbery with violence and intimidation,373
+Spain,2019,Serious and less serious crimes of injuries and riotous brawl,377
+Segovia,2019,Burglaries with force in homes,381
+Barcelona,2019,Sexual assault with penetration,412
+Granada,2019,Vehicle theft,433
+Rioja,2019,Robberies with force in homes,437
+Zaragoza,2019,Serious and less serious crimes of injuries and riotous brawl,450
+Murcia,2019,Other crimes against freedom and sexual indemnity,482
+Cordoba,2019,Robbery with violence and intimidation,490
+Seville,2019,Other crimes against freedom and sexual indemnity,496
+Seville,2019,Drug trafficking,519
+Malaga,2019,Other crimes against freedom and sexual indemnity,523
+Murcia,2019,Crimes against freedom and sexual indemnity,531
+Salamanca,2019,Burglaries with force in homes,531
+Seville,2019,Crimes against freedom and sexual indemnity,550
+Malaga,2019,Crimes against freedom and sexual indemnity,565
+Alicante,2019,Other crimes against freedom and sexual indemnity,592
+Rioja,2019,Burglaries with force in homes,604
+Granada,2019,Drug trafficking,644
+Spain,2019,Vehicle theft,665
+Alicante,2019,Crimes against freedom and sexual indemnity,677
+Seville,2019,Serious and less serious crimes of injuries and riotous brawl,695
+Murcia,2019,Serious and less serious crimes of injuries and riotous brawl,736
+Alicante,2019,Serious and less serious crimes of injuries and riotous brawl,766
+Alicante,2019,Drug trafficking,774
+Ceuta,2019,Theft,823
+Valencia,2019,Other crimes against freedom and sexual indemnity,828
+Malaga,2019,Serious and less serious crimes of injuries and riotous brawl,829
+Granada,2019,Robbery with violence and intimidation,844
+Segovia,2019,Theft,877
+Cordoba,2019,Robberies with force in homes,897
+Murcia,2019,Vehicle theft,905
+Valencia,2019,Crimes against freedom and sexual indemnity,910
+Zaragoza,2019,Robbery with violence and intimidation,1005
+Malaga,2019,Drug trafficking,1005
+Valencia,2019,Drug trafficking,1031
+Valencia,2019,Serious and less serious crimes of injuries and riotous brawl,1131
+Melilla,2019,Theft,1204
+Spain,2019,Robbery with violence and intimidation,1249
+Zaragoza,2019,Robberies with force in homes,1279
+Alicante,2019,Vehicle theft,1364
+Murcia,2019,Robbery with violence and intimidation,1528
+Granada,2019,Robberies with force in homes,1604
+Malaga,2019,Robbery with violence and intimidation,1605
+Alicante,2019,Robbery with violence and intimidation,1665
+Valencia,2019,Vehicle theft,1677
+Barcelona,2019,Drug trafficking,1716
+Cordoba,2019,Burglaries with force in homes,1731
+Malaga,2019,Vehicle theft,1776
+Barcelona,2019,Other crimes against freedom and sexual indemnity,1807
+Spain,2019,Robberies with force in homes,1859
+Seville,2019,Vehicle theft,1926
+Madrid,2019,Other crimes against freedom and sexual indemnity,1978
+Zaragoza,2019,Burglaries with force in homes,1980
+Barcelona,2019,Crimes against freedom and sexual indemnity,2219
+Madrid,2019,Crimes against freedom and sexual indemnity,2221
+Barcelona,2019,Serious and less serious crimes of injuries and riotous brawl,2389
+Granada,2019,Burglaries with force in homes,2389
+Madrid,2019,Serious and less serious crimes of injuries and riotous brawl,2402
+Rioja,2019,Theft,2422
+Madrid,2019,Drug trafficking,2427
+Seville,2019,Robbery with violence and intimidation,2463
+Spain,2019,Burglaries with force in homes,2847
+Valencia,2019,Robbery with violence and intimidation,2958
+Segovia,2019,Other criminal offenses,3022
+Ceuta,2019,Other criminal offenses,3179
+Salamanca,2019,Theft,3269
+Melilla,2019,Other criminal offenses,3577
+Seville,2019,Robberies with force in homes,3657
+Malaga,2019,Robberies with force in homes,4050
+Murcia,2019,Robberies with force in homes,5014
+Malaga,2019,Burglaries with force in homes,5106
+Rioja,2019,Other criminal offenses,5283
+Salamanca,2019,Other criminal offenses,5733
+Seville,2019,Burglaries with force in homes,6007
+Cordoba,2019,Theft,6283
+Valencia,2019,Robberies with force in homes,6660
+Murcia,2019,Burglaries with force in homes,6778
+Alicante,2019,Robberies with force in homes,6893
+Granada,2019,Theft,8034
+Madrid,2019,Vehicle theft,8086
+Barcelona,2019,Vehicle theft,8392
+Zaragoza,2019,Theft,8961
+Alicante,2019,Burglaries with force in homes,9346
+Valencia,2019,Burglaries with force in homes,9674
+Madrid,2019,Robberies with force in homes,11484
+Spain,2019,Theft,13217
+Murcia,2019,Theft,15149
+Madrid,2019,Robbery with violence and intimidation,15586
+Cordoba,2019,Other criminal offenses,16004
+Barcelona,2019,Robberies with force in homes,16180
+Madrid,2019,Burglaries with force in homes,19317
+Granada,2019,Other criminal offenses,20654
+Zaragoza,2019,Other criminal offenses,21357
+Spain,2019,Other criminal offenses,22723
+Barcelona,2019,Robbery with violence and intimidation,23836
+Barcelona,2019,Burglaries with force in homes,23986
+Malaga,2019,Theft,24506
+Alicante,2019,Theft,26132
+Seville,2019,Theft,26397
+Murcia,2019,Other criminal offenses,31679
+Valencia,2019,Theft,35820
+Malaga,2019,Other criminal offenses,44516
+Alicante,2019,Other criminal offenses,48178
+Seville,2019,Other criminal offenses,48365
+Valencia,2019,Other criminal offenses,68853
+Madrid,2019,Theft,154217
+Barcelona,2019,Other criminal offenses,157525
+Barcelona,2019,Theft,165901
+Madrid,2019,Other criminal offenses,205312
+Granada,2020,Kidnapping,0
+Rioja,2020,Kidnapping,0
+Salamanca,2020,Kidnapping,0
+Ceuta,2020,Kidnapping,0
+Melilla,2020,Intentional homicides and consummated murders,0
+Melilla,2020,Kidnapping,0
+Murcia,2020,Kidnapping,1
+Zaragoza,2020,Kidnapping,1
+Spain,2020,Kidnapping,1
+Zaragoza,2020,Intentional homicides and consummated murders,2
+Salamanca,2020,Intentional homicides and consummated murders,2
+Salamanca,2020,Intentional homicides and attempted murders,2
+Segovia,2020,Kidnapping,2
+Ceuta,2020,Intentional homicides and consummated murders,2
+Ceuta,2020,Sexual assault with penetration,2
+Melilla,2020,Intentional homicides and attempted murders,2
+Barcelona,2020,Kidnapping,3
+Cordoba,2020,Intentional homicides and consummated murders,3
+Rioja,2020,Intentional homicides and attempted murders,3
+Alicante,2020,Kidnapping,4
+Cordoba,2020,Kidnapping,4
+Melilla,2020,Sexual assault with penetration,4
+Seville,2020,Kidnapping,5
+Malaga,2020,Kidnapping,5
+Rioja,2020,Intentional homicides and consummated murders,5
+Ceuta,2020,Intentional homicides and attempted murders,5
+Spain,2020,Intentional homicides and consummated murders,6
+Valencia,2020,Kidnapping,8
+Malaga,2020,Intentional homicides and consummated murders,8
+Segovia,2020,Intentional homicides and consummated murders,8
+Salamanca,2020,Sexual assault with penetration,9
+Madrid,2020,Kidnapping,10
+Murcia,2020,Intentional homicides and consummated murders,10
+Granada,2020,Intentional homicides and consummated murders,10
+Rioja,2020,Sexual assault with penetration,10
+Seville,2020,Intentional homicides and consummated murders,12
+Valencia,2020,Intentional homicides and consummated murders,14
+Spain,2020,Intentional homicides and attempted murders,17
+Alicante,2020,Intentional homicides and consummated murders,18
+Segovia,2020,Intentional homicides and attempted murders,18
+Cordoba,2020,Intentional homicides and attempted murders,21
+Cordoba,2020,Sexual assault with penetration,22
+Granada,2020,Sexual assault with penetration,25
+Zaragoza,2020,Intentional homicides and attempted murders,26
+Alicante,2020,Intentional homicides and attempted murders,27
+Granada,2020,Intentional homicides and attempted murders,27
+Zaragoza,2020,Sexual assault with penetration,29
+Spain,2020,Sexual assault with penetration,30
+Melilla,2020,Other crimes against freedom and sexual indemnity,30
+Seville,2020,Sexual assault with penetration,31
+Rioja,2020,Vehicle theft,31
+Melilla,2020,Crimes against freedom and sexual indemnity,34
+Ceuta,2020,Other crimes against freedom and sexual indemnity,35
+Barcelona,2020,Intentional homicides and consummated murders,36
+Ceuta,2020,Crimes against freedom and sexual indemnity,37
+Ceuta,2020,Robberies with force in homes,37
+Madrid,2020,Intentional homicides and consummated murders,38
+Murcia,2020,Intentional homicides and attempted murders,41
+Malaga,2020,Intentional homicides and attempted murders,41
+Segovia,2020,Sexual assault with penetration,42
+Melilla,2020,Vehicle theft,42
+Salamanca,2020,Other crimes against freedom and sexual indemnity,44
+Melilla,2020,Robberies with force in homes,44
+Salamanca,2020,Vehicle theft,49
+Valencia,2020,Intentional homicides and attempted murders,53
+Salamanca,2020,Crimes against freedom and sexual indemnity,53
+Salamanca,2020,Burglaries with force in homes,56
+Malaga,2020,Sexual assault with penetration,58
+Ceuta,2020,Burglaries with force in homes,59
+Murcia,2020,Sexual assault with penetration,64
+Seville,2020,Intentional homicides and attempted murders,64
+Salamanca,2020,Serious and less serious crimes of injuries and riotous brawl,64
+Melilla,2020,Burglaries with force in homes,65
+Rioja,2020,Drug trafficking,72
+Ceuta,2020,Serious and less serious crimes of injuries and riotous brawl,74
+Rioja,2020,Robbery with violence and intimidation,78
+Salamanca,2020,Drug trafficking,78
+Alicante,2020,Sexual assault with penetration,81
+Ceuta,2020,Vehicle theft,84
+Salamanca,2020,Robbery with violence and intimidation,87
+Valencia,2020,Sexual assault with penetration,92
+Rioja,2020,Other crimes against freedom and sexual indemnity,94
+Madrid,2020,Intentional homicides and attempted murders,98
+Rioja,2020,Crimes against freedom and sexual indemnity,104
+Barcelona,2020,Intentional homicides and attempted murders,108
+Rioja,2020,Serious and less serious crimes of injuries and riotous brawl,120
+Ceuta,2020,Robbery with violence and intimidation,128
+Melilla,2020,Serious and less serious crimes of injuries and riotous brawl,157
+Zaragoza,2020,Vehicle theft,158
+Cordoba,2020,Burglaries with force in homes,168
+Granada,2020,Other crimes against freedom and sexual indemnity,183
+Segovia,2020,Burglaries with force in homes,185
+Zaragoza,2020,Other crimes against freedom and sexual indemnity,196
+Cordoba,2020,Other crimes against freedom and sexual indemnity,206
+Cordoba,2020,Vehicle theft,208
+Granada,2020,Crimes against freedom and sexual indemnity,208
+Cordoba,2020,Serious and less serious crimes of injuries and riotous brawl,210
+Madrid,2020,Sexual assault with penetration,217
+Spain,2020,Other crimes against freedom and sexual indemnity,218
+Ceuta,2020,Drug trafficking,220
+Salamanca,2020,Robberies with force in homes,221
+Zaragoza,2020,Crimes against freedom and sexual indemnity,225
+Cordoba,2020,Crimes against freedom and sexual indemnity,228
+Melilla,2020,Drug trafficking,232
+Zaragoza,2020,Drug trafficking,245
+Spain,2020,Crimes against freedom and sexual indemnity,249
+Segovia,2020,Drug trafficking,256
+Segovia,2020,Other crimes against freedom and sexual indemnity,273
+Barcelona,2020,Sexual assault with penetration,285
+Cordoba,2020,Robbery with violence and intimidation,286
+Cordoba,2020,Drug trafficking,291
+Granada,2020,Serious and less serious crimes of injuries and riotous brawl,300
+Melilla,2020,Robbery with violence and intimidation,300
+Spain,2020,Serious and less serious crimes of injuries and riotous brawl,302
+Zaragoza,2020,Serious and less serious crimes of injuries and riotous brawl,303
+Segovia,2020,Crimes against freedom and sexual indemnity,315
+Granada,2020,Vehicle theft,321
+Spain,2020,Drug trafficking,323
+Rioja,2020,Robberies with force in homes,352
+Spain,2020,Burglaries with force in homes,388
+Murcia,2020,Drug trafficking,389
+Murcia,2020,Burglaries with force in homes,400
+Malaga,2020,Other crimes against freedom and sexual indemnity,400
+Granada,2020,Burglaries with force in homes,401
+Zaragoza,2020,Burglaries with force in homes,425
+Segovia,2020,Serious and less serious crimes of injuries and riotous brawl,426
+Rioja,2020,Burglaries with force in homes,440
+Murcia,2020,Other crimes against freedom and sexual indemnity,441
+Malaga,2020,Crimes against freedom and sexual indemnity,458
+Ceuta,2020,Theft,471
+Segovia,2020,Vehicle theft,475
+Seville,2020,Other crimes against freedom and sexual indemnity,477
+Spain,2020,Vehicle theft,479
+Alicante,2020,Other crimes against freedom and sexual indemnity,492
+Segovia,2020,Robbery with violence and intimidation,495
+Murcia,2020,Crimes against freedom and sexual indemnity,505
+Seville,2020,Crimes against freedom and sexual indemnity,508
+Seville,2020,Drug trafficking,547
+Granada,2020,Robbery with violence and intimidation,566
+Alicante,2020,Crimes against freedom and sexual indemnity,573
+Seville,2020,Serious and less serious crimes of injuries and riotous brawl,612
+Alicante,2020,Burglaries with force in homes,620
+Alicante,2020,Serious and less serious crimes of injuries and riotous brawl,640
+Murcia,2020,Serious and less serious crimes of injuries and riotous brawl,645
+Cordoba,2020,Robberies with force in homes,648
+Valencia,2020,Other crimes against freedom and sexual indemnity,687
+Malaga,2020,Burglaries with force in homes,689
+Malaga,2020,Serious and less serious crimes of injuries and riotous brawl,691
+Murcia,2020,Vehicle theft,726
+Zaragoza,2020,Robbery with violence and intimidation,728
+Melilla,2020,Theft,778
+Valencia,2020,Crimes against freedom and sexual indemnity,779
+Granada,2020,Drug trafficking,792
+Alicante,2020,Drug trafficking,816
+Spain,2020,Robbery with violence and intimidation,854
+Valencia,2020,Serious and less serious crimes of injuries and riotous brawl,892
+Valencia,2020,Drug trafficking,907
+Zaragoza,2020,Robberies with force in homes,913
+Alicante,2020,Vehicle theft,996
+Malaga,2020,Drug trafficking,1045
+Malaga,2020,Robbery with violence and intimidation,1119
+Granada,2020,Robberies with force in homes,1123
+Valencia,2020,Burglaries with force in homes,1162
+Alicante,2020,Robbery with violence and intimidation,1187
+Murcia,2020,Robbery with violence and intimidation,1207
+Segovia,2020,Robberies with force in homes,1208
+Seville,2020,Burglaries with force in homes,1223
+Valencia,2020,Vehicle theft,1257
+Malaga,2020,Vehicle theft,1293
+Spain,2020,Robberies with force in homes,1366
+Barcelona,2020,Other crimes against freedom and sexual indemnity,1418
+Seville,2020,Vehicle theft,1458
+Rioja,2020,Theft,1475
+Barcelona,2020,Serious and less serious crimes of injuries and riotous brawl,1598
+Barcelona,2020,Crimes against freedom and sexual indemnity,1703
+Madrid,2020,Other crimes against freedom and sexual indemnity,1759
+Seville,2020,Robbery with violence and intimidation,1802
+Salamanca,2020,Theft,1826
+Madrid,2020,Crimes against freedom and sexual indemnity,1976
+Barcelona,2020,Drug trafficking,2090
+Madrid,2020,Serious and less serious crimes of injuries and riotous brawl,2287
+Valencia,2020,Robbery with violence and intimidation,2355
+Madrid,2020,Drug trafficking,2470
+Ceuta,2020,Other criminal offenses,2558
+Melilla,2020,Other criminal offenses,2857
+Seville,2020,Robberies with force in homes,2966
+Malaga,2020,Robberies with force in homes,3007
+Madrid,2020,Burglaries with force in homes,3234
+Murcia,2020,Robberies with force in homes,3796
+Cordoba,2020,Theft,4051
+Barcelona,2020,Burglaries with force in homes,4061
+Granada,2020,Theft,4867
+Barcelona,2020,Vehicle theft,5075
+Valencia,2020,Robberies with force in homes,5077
+Alicante,2020,Robberies with force in homes,5479
+Rioja,2020,Other criminal offenses,5484
+Zaragoza,2020,Theft,5765
+Salamanca,2020,Other criminal offenses,6029
+Madrid,2020,Vehicle theft,6235
+Madrid,2020,Robberies with force in homes,7052
+Segovia,2020,Theft,7771
+Spain,2020,Theft,7942
+Murcia,2020,Theft,9925
+Madrid,2020,Robbery with violence and intimidation,10688
+Barcelona,2020,Robberies with force in homes,10979
+Barcelona,2020,Robbery with violence and intimidation,15249
+Malaga,2020,Theft,15265
+Cordoba,2020,Other criminal offenses,15592
+Seville,2020,Theft,16081
+Alicante,2020,Theft,16192
+Zaragoza,2020,Other criminal offenses,19358
+Granada,2020,Other criminal offenses,20017
+Spain,2020,Other criminal offenses,21161
+Valencia,2020,Theft,24012
+Segovia,2020,Other criminal offenses,24015
+Murcia,2020,Other criminal offenses,32819
+Malaga,2020,Other criminal offenses,42372
+Alicante,2020,Other criminal offenses,45607
+Seville,2020,Other criminal offenses,46704
+Valencia,2020,Other criminal offenses,64822
+Madrid,2020,Theft,92213
+Barcelona,2020,Theft,92393
+Barcelona,2020,Other criminal offenses,135216
+Madrid,2020,Other criminal offenses,181917
+Cordoba,2021,Kidnapping,0
+Rioja,2021,Kidnapping,0
+Salamanca,2021,Kidnapping,0
+Segovia,2021,Kidnapping,0
+Melilla,2021,Intentional homicides and consummated murders,0
+Melilla,2021,Kidnapping,0
+Cordoba,2021,Intentional homicides and consummated murders,1
+Granada,2021,Kidnapping,1
+Salamanca,2021,Intentional homicides and consummated murders,1
+Valencia,2021,Kidnapping,2
+Zaragoza,2021,Kidnapping,2
+Spain,2021,Kidnapping,2
+Ceuta,2021,Intentional homicides and consummated murders,2
+Melilla,2021,Sexual assault with penetration,2
+Murcia,2021,Kidnapping,3
+Rioja,2021,Intentional homicides and consummated murders,3
+Ceuta,2021,Kidnapping,3
+Zaragoza,2021,Intentional homicides and consummated murders,4
+Alicante,2021,Kidnapping,4
+Salamanca,2021,Intentional homicides and attempted murders,4
+Ceuta,2021,Sexual assault with penetration,4
+Melilla,2021,Intentional homicides and attempted murders,4
+Seville,2021,Kidnapping,5
+Spain,2021,Intentional homicides and consummated murders,5
+Rioja,2021,Intentional homicides and attempted murders,5
+Segovia,2021,Intentional homicides and consummated murders,6
+Barcelona,2021,Kidnapping,8
+Seville,2021,Intentional homicides and consummated murders,8
+Zaragoza,2021,Intentional homicides and attempted murders,8
+Granada,2021,Intentional homicides and consummated murders,8
+Rioja,2021,Sexual assault with penetration,9
+Alicante,2021,Intentional homicides and consummated murders,10
+Ceuta,2021,Intentional homicides and attempted murders,10
+Salamanca,2021,Sexual assault with penetration,11
+Madrid,2021,Kidnapping,13
+Malaga,2021,Kidnapping,13
+Segovia,2021,Intentional homicides and attempted murders,13
+Murcia,2021,Intentional homicides and consummated murders,14
+Malaga,2021,Intentional homicides and consummated murders,15
+Cordoba,2021,Intentional homicides and attempted murders,16
+Spain,2021,Intentional homicides and attempted murders,19
+Granada,2021,Intentional homicides and attempted murders,20
+Valencia,2021,Intentional homicides and consummated murders,22
+Cordoba,2021,Sexual assault with penetration,24
+Ceuta,2021,Robberies with force in homes,31
+Melilla,2021,Vehicle theft,35
+Barcelona,2021,Intentional homicides and consummated murders,36
+Madrid,2021,Intentional homicides and consummated murders,37
+Melilla,2021,Other crimes against freedom and sexual indemnity,37
+Seville,2021,Sexual assault with penetration,38
+Segovia,2021,Sexual assault with penetration,39
+Melilla,2021,Crimes against freedom and sexual indemnity,39
+Spain,2021,Sexual assault with penetration,40
+Zaragoza,2021,Sexual assault with penetration,41
+Granada,2021,Sexual assault with penetration,43
+Ceuta,2021,Other crimes against freedom and sexual indemnity,43
+Murcia,2021,Intentional homicides and attempted murders,46
+Ceuta,2021,Crimes against freedom and sexual indemnity,47
+Malaga,2021,Intentional homicides and attempted murders,48
+Alicante,2021,Intentional homicides and attempted murders,48
+Malaga,2021,Sexual assault with penetration,49
+Melilla,2021,Robberies with force in homes,55
+Seville,2021,Intentional homicides and attempted murders,57
+Rioja,2021,Vehicle theft,59
+Salamanca,2021,Vehicle theft,60
+Murcia,2021,Sexual assault with penetration,61
+Salamanca,2021,Drug trafficking,61
+Valencia,2021,Intentional homicides and attempted murders,65
+Salamanca,2021,Other crimes against freedom and sexual indemnity,67
+Melilla,2021,Burglaries with force in homes,68
+Ceuta,2021,Burglaries with force in homes,69
+Ceuta,2021,Serious and less serious crimes of injuries and riotous brawl,73
+Rioja,2021,Drug trafficking,75
+Salamanca,2021,Crimes against freedom and sexual indemnity,78
+Salamanca,2021,Serious and less serious crimes of injuries and riotous brawl,80
+Salamanca,2021,Robbery with violence and intimidation,83
+Rioja,2021,Other crimes against freedom and sexual indemnity,93
+Madrid,2021,Intentional homicides and attempted murders,94
+Alicante,2021,Sexual assault with penetration,99
+Rioja,2021,Crimes against freedom and sexual indemnity,102
+Ceuta,2021,Vehicle theft,103
+Rioja,2021,Robbery with violence and intimidation,116
+Melilla,2021,Serious and less serious crimes of injuries and riotous brawl,119
+Valencia,2021,Sexual assault with penetration,124
+Barcelona,2021,Intentional homicides and attempted murders,137
+Rioja,2021,Serious and less serious crimes of injuries and riotous brawl,161
+Cordoba,2021,Vehicle theft,183
+Cordoba,2021,Drug trafficking,184
+Cordoba,2021,Other crimes against freedom and sexual indemnity,189
+Ceuta,2021,Robbery with violence and intimidation,195
+Segovia,2021,Drug trafficking,198
+Zaragoza,2021,Vehicle theft,199
+Melilla,2021,Robbery with violence and intimidation,201
+Ceuta,2021,Drug trafficking,205
+Cordoba,2021,Crimes against freedom and sexual indemnity,213
+Granada,2021,Other crimes against freedom and sexual indemnity,225
+Melilla,2021,Drug trafficking,230
+Cordoba,2021,Serious and less serious crimes of injuries and riotous brawl,247
+Salamanca,2021,Robberies with force in homes,265
+Granada,2021,Crimes against freedom and sexual indemnity,268
+Granada,2021,Vehicle theft,270
+Cordoba,2021,Robbery with violence and intimidation,273
+Madrid,2021,Sexual assault with penetration,274
+Spain,2021,Other crimes against freedom and sexual indemnity,281
+Zaragoza,2021,Other crimes against freedom and sexual indemnity,285
+Spain,2021,Crimes against freedom and sexual indemnity,321
+Zaragoza,2021,Crimes against freedom and sexual indemnity,326
+Zaragoza,2021,Drug trafficking,327
+Salamanca,2021,Burglaries with force in homes,330
+Granada,2021,Serious and less serious crimes of injuries and riotous brawl,343
+Spain,2021,Drug trafficking,346
+Segovia,2021,Other crimes against freedom and sexual indemnity,351
+Zaragoza,2021,Serious and less serious crimes of injuries and riotous brawl,376
+Spain,2021,Serious and less serious crimes of injuries and riotous brawl,382
+Segovia,2021,Crimes against freedom and sexual indemnity,390
+Rioja,2021,Robberies with force in homes,397
+Segovia,2021,Vehicle theft,414
+Ceuta,2021,Theft,434
+Barcelona,2021,Sexual assault with penetration,436
+Rioja,2021,Burglaries with force in homes,455
+Spain,2021,Vehicle theft,498
+Murcia,2021,Drug trafficking,506
+Segovia,2021,Serious and less serious crimes of injuries and riotous brawl,513
+Segovia,2021,Robbery with violence and intimidation,520
+Malaga,2021,Other crimes against freedom and sexual indemnity,528
+Murcia,2021,Other crimes against freedom and sexual indemnity,552
+Seville,2021,Other crimes against freedom and sexual indemnity,562
+Melilla,2021,Theft,576
+Malaga,2021,Crimes against freedom and sexual indemnity,577
+Seville,2021,Crimes against freedom and sexual indemnity,600
+Granada,2021,Robbery with violence and intimidation,611
+Murcia,2021,Crimes against freedom and sexual indemnity,613
+Seville,2021,Drug trafficking,642
+Murcia,2021,Vehicle theft,666
+Seville,2021,Serious and less serious crimes of injuries and riotous brawl,691
+Cordoba,2021,Robberies with force in homes,736
+Alicante,2021,Other crimes against freedom and sexual indemnity,739
+Alicante,2021,Crimes against freedom and sexual indemnity,838
+Murcia,2021,Serious and less serious crimes of injuries and riotous brawl,863
+Alicante,2021,Serious and less serious crimes of injuries and riotous brawl,878
+Valencia,2021,Drug trafficking,904
+Zaragoza,2021,Robbery with violence and intimidation,912
+Malaga,2021,Serious and less serious crimes of injuries and riotous brawl,913
+Alicante,2021,Drug trafficking,935
+Valencia,2021,Other crimes against freedom and sexual indemnity,957
+Alicante,2021,Vehicle theft,969
+Spain,2021,Robbery with violence and intimidation,1001
+Granada,2021,Drug trafficking,1007
+Zaragoza,2021,Robberies with force in homes,1044
+Cordoba,2021,Burglaries with force in homes,1044
+Malaga,2021,Drug trafficking,1078
+Valencia,2021,Crimes against freedom and sexual indemnity,1081
+Granada,2021,Robberies with force in homes,1178
+Alicante,2021,Robbery with violence and intimidation,1212
+Valencia,2021,Serious and less serious crimes of injuries and riotous brawl,1241
+Segovia,2021,Robberies with force in homes,1261
+Seville,2021,Vehicle theft,1309
+Valencia,2021,Vehicle theft,1338
+Murcia,2021,Robbery with violence and intimidation,1375
+Malaga,2021,Robbery with violence and intimidation,1388
+Spain,2021,Robberies with force in homes,1425
+Malaga,2021,Vehicle theft,1493
+Zaragoza,2021,Burglaries with force in homes,1563
+Segovia,2021,Burglaries with force in homes,1708
+Granada,2021,Burglaries with force in homes,1732
+Rioja,2021,Theft,1789
+Seville,2021,Robbery with violence and intimidation,1937
+Barcelona,2021,Other crimes against freedom and sexual indemnity,1970
+Spain,2021,Burglaries with force in homes,2002
+Madrid,2021,Other crimes against freedom and sexual indemnity,2146
+Barcelona,2021,Serious and less serious crimes of injuries and riotous brawl,2161
+Salamanca,2021,Theft,2303
+Barcelona,2021,Crimes against freedom and sexual indemnity,2406
+Madrid,2021,Crimes against freedom and sexual indemnity,2420
+Madrid,2021,Drug trafficking,2502
+Seville,2021,Robberies with force in homes,2565
+Madrid,2021,Serious and less serious crimes of injuries and riotous brawl,2717
+Ceuta,2021,Other criminal offenses,2785
+Barcelona,2021,Drug trafficking,2833
+Melilla,2021,Other criminal offenses,2842
+Malaga,2021,Robberies with force in homes,2933
+Valencia,2021,Robbery with violence and intimidation,3063
+Murcia,2021,Robberies with force in homes,3793
+Malaga,2021,Burglaries with force in homes,4154
+Cordoba,2021,Theft,4505
+Seville,2021,Burglaries with force in homes,4697
+Murcia,2021,Burglaries with force in homes,4701
+Barcelona,2021,Vehicle theft,5074
+Alicante,2021,Robberies with force in homes,5282
+Granada,2021,Theft,5998
+Valencia,2021,Robberies with force in homes,6054
+Rioja,2021,Other criminal offenses,6309
+Salamanca,2021,Other criminal offenses,6600
+Alicante,2021,Burglaries with force in homes,6672
+Madrid,2021,Vehicle theft,6922
+Valencia,2021,Burglaries with force in homes,7018
+Zaragoza,2021,Theft,7663
+Segovia,2021,Theft,7727
+Madrid,2021,Robberies with force in homes,8243
+Spain,2021,Theft,9311
+Barcelona,2021,Robberies with force in homes,10697
+Murcia,2021,Theft,11925
+Madrid,2021,Robbery with violence and intimidation,12153
+Madrid,2021,Burglaries with force in homes,12262
+Cordoba,2021,Other criminal offenses,16675
+Barcelona,2021,Burglaries with force in homes,16743
+Barcelona,2021,Robbery with violence and intimidation,18360
+Alicante,2021,Theft,18481
+Malaga,2021,Theft,18720
+Seville,2021,Theft,18880
+Zaragoza,2021,Other criminal offenses,21316
+Granada,2021,Other criminal offenses,21570
+Spain,2021,Other criminal offenses,23066
+Segovia,2021,Other criminal offenses,23381
+Valencia,2021,Theft,34443
+Murcia,2021,Other criminal offenses,37088
+Malaga,2021,Other criminal offenses,47803
+Seville,2021,Other criminal offenses,48461
+Alicante,2021,Other criminal offenses,49211
+Valencia,2021,Other criminal offenses,74380
+Barcelona,2021,Theft,97043
+Madrid,2021,Theft,108778
+Barcelona,2021,Other criminal offenses,152565
+Madrid,2021,Other criminal offenses,197970
